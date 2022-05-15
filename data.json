@@ -1,0 +1,13 @@
+{
+  music:[
+    {
+      name: "cicak didinding",
+      source: "cicak-didinding.mp3"
+    },
+    {
+      name: "orange ngaco",
+      source: "orange-anjlok.mp3"
+    }
+  ]
+
+}
